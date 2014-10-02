@@ -1,0 +1,10 @@
+name: gt11799
+version: 2
+
+libraries:
+- name: webpy
+  version: "0.36"
+- name: lxml
+  version: "2.3.4"
+- name: MySQLdb
+  version: "1.2.3"
